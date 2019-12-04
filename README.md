@@ -25,6 +25,8 @@ Componentes utilizados:
 
 ![montagem final](https://raw.githubusercontent.com/murilogodoy/Murilo-Godoy/master/montagem%20final.jpeg)
 
+![funcionamento](https://github.com/murilogodoy/Murilo-Godoy/blob/master/VID_20191204_090918~2.mp4?raw=true)
+
 Detalhes do projeto: 
 Devido à baixa potência do NodeMCU, foi usado um Módulo Ponte H para elevar a tensão e a corrente necessária para acionar a fita de Led e realizar o controle da luminosidade com o auxílio do Módulo Sensor de Luminosidade, assim como descrito na proposta inicial.
 Para fazer a comunicação com ESP8266 foi utilizado um código de exemplo da plataforma Blynk para a IDE do Arduino (disponível em: blynk.io) e alterado conforme as necessidades do projeto. 
