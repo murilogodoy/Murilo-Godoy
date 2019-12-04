@@ -22,7 +22,7 @@ Componentes utilizados:
 •	Jumpers 
 •	Fita de Led – 12V, 1A;
 •	Fonte 12V.
-https://raw.githubusercontent.com/murilogodoy/Murilo-Godoy/master/montagem%20final.jpeg
+![montagem final](https://raw.githubusercontent.com/murilogodoy/Murilo-Godoy/master/montagem%20final.jpeg)
 
 Detalhes do projeto: 
 Devido à baixa potência do NodeMCU, foi usado um Módulo Ponte H para elevar a tensão e a corrente necessária para acionar a fita de Led e realizar o controle da luminosidade com o auxílio do Módulo Sensor de Luminosidade, assim como descrito na proposta inicial.
