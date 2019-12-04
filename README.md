@@ -22,6 +22,7 @@ Componentes utilizados:
 •	Jumpers 
 •	Fita de Led – 12V, 1A;
 •	Fonte 12V.
+
 ![montagem final](https://raw.githubusercontent.com/murilogodoy/Murilo-Godoy/master/montagem%20final.jpeg)
 
 Detalhes do projeto: 
